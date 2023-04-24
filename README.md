@@ -1,30 +1,30 @@
 # Final-Project-Template
-<!-- Edit the title above with your project title -->
+<!-- Edit the title above with your project title --> Streaming Service Comparison
 
 ## Project Overview
 
 ## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
+<!-- Edit the following section with your self assessment and reflection --> 
 
 ### Self Assessment
 <!-- Replace the (...) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         | 10 / 10  |
+| **Execution**     | 15 / 20  |
+| **Documentation** | 10 / 10  |
+| **Presentation**  | 30 / 30  |
+| **Total**         | 65 / 70  |
 
 ### Reflection
-<!-- Edit the following section with your reflection -->
+<!-- Edit the following section with your reflection --> 
 
-#### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+#### What went well? I think the exploraory data analysis phase went well.
+#### What did not go well? I thought the data was all over the place and couldn't figure out the best way to represent it.
+#### What did you learn? I learnt how to actually get a dataset and how to work with it.
+#### What would you do differently next time? I'd focus more on building the regression model.
 
 ---
 
