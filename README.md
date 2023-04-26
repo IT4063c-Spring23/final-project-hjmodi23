@@ -13,10 +13,10 @@
 | Category          | Score    |
 | ----------------- | -------- |
 | **Setup**         | 10 / 10  |
-| **Execution**     | 15 / 20  |
+| **Execution**     | 10 / 20  |
 | **Documentation** | 10 / 10  |
 | **Presentation**  | 30 / 30  |
-| **Total**         | 65 / 70  |
+| **Total**         | 60 / 70  |
 
 ### Reflection
 <!-- Edit the following section with your reflection --> 
